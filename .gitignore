@@ -63,3 +63,7 @@ logs/
 htmlcov/
 .pytest_cache/
 .tox/
+
+# Vite build
+webapp/dist/
+webapp/.turbo/
